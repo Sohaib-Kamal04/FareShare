@@ -43,12 +43,7 @@ Limitations
 📐 UI not responsive to resizing
 
 Authors
-
-- Oswa E Hasna (SP23637)
-- Muhammad Hashim (SP23651)
-- Maheen Tariq (SP23671)
-- Sohaib Kamal (SP23638)
-- Fatima Saeed (SP23668)
+- Sohaib Kamal
 
 License
 
